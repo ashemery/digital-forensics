@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# 
+# Simple code to calculate the hash values of files within a directory
+# program was done to calc the unique hash values of a Malware Dataset
+# 
 import hashlib
 import os
 import sys
